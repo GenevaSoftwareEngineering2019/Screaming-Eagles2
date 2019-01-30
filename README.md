@@ -1,2 +1,2 @@
 # Screaming-Eagles2
-Empty
+Here is some text for the readme file :)
